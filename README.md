@@ -8,6 +8,10 @@ Back-end desenvolvido na linguagem Python com o microframework web Flask, framew
 
 O front-end que integra o sistema **Minhas Tarefas** foi desenvolvido no formato de Single Page Application (SPA) utilizando HTML, CSS e JavaScript. Possui design responsivo e alguns recursos de acessibilidade, como tags semânticas e textos alternativos nos ícones de interação.
 
+---
+## Repositório do front-end
+
+Este back-end necessita do front-end que está disponível no repositório: https://github.com/rlcoelho/minhasTarefas-front-end
 
 ---
 ## Como executar 
@@ -37,7 +41,6 @@ automaticamente após uma mudança no código fonte.
 ```
 
 Abra o [http://localhost:5000/#/](http://localhost:5000/#/) no navegador para verificar o status da API em execução.
-
 
 ---
 ## Melhorias previstas
