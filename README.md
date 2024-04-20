@@ -16,6 +16,8 @@ Este back-end necessita do front-end que está disponível no repositório: http
 ---
 ## Como executar 
 
+Este projeto requer que você tenha instalado em seu sistema o Python 3.8 ou superior e o banco de dados SQLite3.
+
 Será necessário ter instaladas todas as libs Python listadas no arquivo `requirements.txt`.
 Após clonar o repositório, é necessário ir ao diretório raiz, pelo terminal, para poder executar os comandos descritos abaixo.
 
